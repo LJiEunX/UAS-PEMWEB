@@ -1,4 +1,4 @@
-.login-container {
+x.login-container {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -178,6 +178,7 @@
   background-color: orange;
   color: white;
 }
+<!--password-->
 .login-rectangle6input {
   top: 436px;
   left: 706px;
@@ -201,6 +202,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
+<!--NIM-->
 .login-rectangle5input {
   top: 347px;
   left: 706px;
