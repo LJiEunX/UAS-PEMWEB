@@ -184,7 +184,7 @@ x.login-container {
   color: white;
 }
 <!--password-->
-.login-rectangle6input {
+.Password {
   top: 436px;
   left: 706px;
   width: 385px;
@@ -208,7 +208,7 @@ x.login-container {
   text-decoration: none;
 }
 <!--NIM-->
-.login-rectangle5input {
+.NIM {
   top: 347px;
   left: 706px;
   width: 385px;
