@@ -156,14 +156,7 @@
             class="login-line1svg"
           />
           <a href="home-setelah-login.html" class="login-navlink">
-            <img
-              src="public/external/rectangle4buttonsvg4218-zqvt.svg"
-              alt="Rectangle4buttonsvg4218"
-              class="login-rectangle4buttonsvg"
-            />
-          </a>
-          <a href="home-setelah-login.html" class="login-text11">
-            <span>LOG IN</span>
+           <button type="button" class="login"> Login</button>
           </a>
           <input type="text" placeholder="NIM" class="NIM"/>
           <input type="password" placeholder="password" class="Password"/>
@@ -173,10 +166,10 @@
     </div>
        <script>
       document.addEventListener('DOMContentLoaded', function() {
-        var loginButton = document.querySelector('.login-rectangle4buttonsvg');
+        var loginButton = document.querySelector('.login');
         loginButton.addEventListener('click', function(event) {
-          var usernameInput = document.querySelector('.login-rectangle6input');
-          var passwordInput = document.querySelector('.login-rectangle5input');
+          var usernameInput = document.querySelector('.NIM');
+          var passwordInput = document.querySelector('.Password');
           var username = usernameInput.value;
           var password = passwordInput.value;
     
