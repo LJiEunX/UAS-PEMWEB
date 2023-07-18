@@ -186,5 +186,28 @@
         </div>
       </div>
     </div>
+       <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        var loginButton = document.querySelector('.login-rectangle4buttonsvg');
+        loginButton.addEventListener('click', function(event) {
+          var usernameInput = document.querySelector('.login-rectangle6input');
+          var passwordInput = document.querySelector('.login-rectangle5input');
+          var username = usernameInput.value;
+          var password = passwordInput.value;
+    
+          if (username.trim() === '' || password.trim() === '') {
+            event.preventDefault();
+            alert('Username and Password cannot be empty.');
+            setTimeout(function() {
+              usernameInput.value = '';
+              passwordInput.value = ''; 
+              usernameInput.focus();
+            }, 0);
+          } else {
+            window.location.href = 'other-page.html';
+          }
+        });
+      });
+    </script>
   </body>
 </html>
