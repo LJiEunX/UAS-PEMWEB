@@ -1,0 +1,131 @@
+.pendaftaran-n-admin-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pendaftaran-n-admin-pendaftarnoadmin {
+  width: 1280px;
+  height: 832px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 240, 237, 1);
+}
+.pendaftaran-n-admin-rectangle12 {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 141px;
+  position: absolute;
+}
+.pendaftaran-n-admin-text {
+  top: 66px;
+  left: 967px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  width: 200px;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.pendaftaran-n-admin-text:hover{
+  background-color: orange;
+  color: white;
+  border: orange;
+  border-width: 150px;
+  border-radius: 10px;
+}
+.pendaftaran-n-admin-text02 {
+  top: 37px;
+  left: 168px;
+  color: rgba(18, 17, 17, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-n-admin-logofixesgul1 {
+  top: 15px;
+  left: 21px;
+  width: 111px;
+  height: 110px;
+  position: absolute;
+}
+.pendaftaran-n-admin-rectangle24 {
+  top: 174px;
+  left: 297px;
+  width: 686px;
+  height: 725px;
+  position: absolute;
+  border-radius: 68px;
+}
+.pendaftaran-n-admin-rectangle25input {
+  top: 251px;
+  left: 391px;
+  width: 511px;
+  height: 496px;
+  position: absolute;
+  border-radius: 10px;
+}
+.pendaftaran-n-admin-text07 {
+  top: 200px;
+  left: 391px;
+  color: rgba(0, 0, 0, 1);
+  width: 536px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-n-admin-navlink {
+  display: contents;
+}
+.pendaftaran-n-admin-rectangle24button {
+  top: 769px;
+  left: 806px;
+  width: 151px;
+  height: 39px;
+  position: absolute;
+  border-radius: 22px;
+  text-decoration: none;
+}
+.pendaftaran-n-admin-text09 {
+  top: 775px;
+  left: 846px;
+  color: rgba(0, 0, 0, 1);
+  width: 111px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

@@ -1,0 +1,413 @@
+.pendaftaran-persetujuan-admin-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pendaftaran-persetujuan-admin-pendaftarpersetujuanadmin {
+  width: 1280px;
+  height: 832px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 240, 237, 1);
+}
+.pendaftaran-persetujuan-admin-rectangle12 {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 141px;
+  position: absolute;
+}
+.pendaftaran-persetujuan-admin-text {
+  top: 66px;
+  left: 967px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-persetujuan-admin-text2 {
+  top: 37px;
+  left: 168px;
+  color: rgba(18, 17, 17, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-persetujuan-admin-logofixesgul1 {
+  top: 15px;
+  left: 21px;
+  width: 111px;
+  height: 110px;
+  position: absolute;
+}
+.pendaftaran-persetujuan-admin-text7 {
+  top: 167px;
+  left: 480px;
+  color: rgba(0, 0, 0, 1);
+  width: 320px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-persetujuan-admin-rectangle31 {
+  top: 260px;
+  left: 195px;
+  width: 890px;
+  height: 510px;
+  position: absolute;
+  border-radius: 68px;
+}
+.pendaftaran-persetujuan-admin-phcheckduotonebutton {
+  top: 332px;
+  left: 888px;
+  width: 57px;
+  height: 63px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pendaftaran-persetujuan-admin-group {
+  top: 10.343283653259277px;
+  left: 5.699999809265137px;
+  width: 46.3125px;
+  height: 43.3125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pendaftaran-persetujuan-admin-vector {
+  top: 0px;
+  left: 0px;
+  width: 46px;
+  height: 43px;
+  opacity: 0.20;
+  position: absolute;
+}
+.pendaftaran-persetujuan-admin-navlink {
+  display: contents;
+}
+.pendaftaran-persetujuan-admin-vector01 {
+  top: 7.873905181884766px;
+  left: 7.124009609222412px;
+  width: 34px;
+  height: 28px;
+  position: absolute;
+  text-decoration: none;
+}
+.pendaftaran-persetujuan-admin-rectangle38 {
+  top: 342px;
+  left: 953px;
+  width: 46px;
+  height: 44px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pendaftaran-persetujuan-admin-navlink1 {
+  display: contents;
+}
+.pendaftaran-persetujuan-admin-dashiconsnobutton {
+  top: 342px;
+  left: 953px;
+  width: 46px;
+  height: 44px;
+  position: absolute;
+  text-decoration: none;
+}
+.pendaftaran-persetujuan-admin-phcheckduotonebutton1 {
+  top: 634px;
+  left: 894px;
+  width: 57px;
+  height: 63px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.pendaftaran-persetujuan-admin-group1 {
+  top: 10.343283653259277px;
+  left: 5.699999809265137px;
+  width: 46.3125px;
+  height: 43.3125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pendaftaran-persetujuan-admin-vector02 {
+  top: 0px;
+  left: 0px;
+  width: 46px;
+  height: 43px;
+  opacity: 0.20;
+  position: absolute;
+}
+.pendaftaran-persetujuan-admin-vector03 {
+  top: 7.873905181884766px;
+  left: 7.124009609222412px;
+  width: 34px;
+  height: 28px;
+  position: absolute;
+}
+.pendaftaran-persetujuan-admin-rectangle42 {
+  top: 644px;
+  left: 959px;
+  width: 46px;
+  height: 44px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pendaftaran-persetujuan-admin-navlink2 {
+  display: contents;
+}
+.pendaftaran-persetujuan-admin-dashiconsnobutton1 {
+  top: 644px;
+  left: 959px;
+  width: 46px;
+  height: 44px;
+  position: absolute;
+  text-decoration: none;
+}
+.pendaftaran-persetujuan-admin-phcheckduotonebutton2 {
+  top: 555px;
+  left: 894px;
+  width: 57px;
+  height: 63px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pendaftaran-persetujuan-admin-group2 {
+  top: 10.343283653259277px;
+  left: 5.699999809265137px;
+  width: 46.3125px;
+  height: 43.3125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pendaftaran-persetujuan-admin-vector04 {
+  top: 0px;
+  left: 0px;
+  width: 46px;
+  height: 43px;
+  opacity: 0.20;
+  position: absolute;
+}
+.pendaftaran-persetujuan-admin-navlink3 {
+  display: contents;
+}
+.pendaftaran-persetujuan-admin-vector05 {
+  top: 7.873905181884766px;
+  left: 7.124009609222412px;
+  width: 34px;
+  height: 28px;
+  position: absolute;
+  text-decoration: none;
+}
+.pendaftaran-persetujuan-admin-rectangle41 {
+  top: 565px;
+  left: 959px;
+  width: 46px;
+  height: 44px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pendaftaran-persetujuan-admin-navlink4 {
+  display: contents;
+}
+.pendaftaran-persetujuan-admin-dashiconsnobutton2 {
+  top: 565px;
+  left: 959px;
+  width: 46px;
+  height: 44px;
+  position: absolute;
+  text-decoration: none;
+}
+.pendaftaran-persetujuan-admin-phcheckduotonebutton3 {
+  top: 483px;
+  left: 890px;
+  width: 57px;
+  height: 63px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pendaftaran-persetujuan-admin-group3 {
+  top: 10.343283653259277px;
+  left: 5.699999809265137px;
+  width: 46.3125px;
+  height: 43.3125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pendaftaran-persetujuan-admin-navlink5 {
+  display: contents;
+}
+.pendaftaran-persetujuan-admin-vector06 {
+  top: 0px;
+  left: 0px;
+  width: 46px;
+  height: 43px;
+  opacity: 0.20;
+  position: absolute;
+  text-decoration: none;
+}
+.pendaftaran-persetujuan-admin-vector07 {
+  top: 7.873905181884766px;
+  left: 7.124009609222412px;
+  width: 34px;
+  height: 28px;
+  position: absolute;
+}
+.pendaftaran-persetujuan-admin-rectangle40 {
+  top: 493px;
+  left: 955px;
+  width: 46px;
+  height: 44px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pendaftaran-persetujuan-admin-navlink6 {
+  display: contents;
+}
+.pendaftaran-persetujuan-admin-dashiconsnobutton3 {
+  top: 493px;
+  left: 955px;
+  width: 46px;
+  height: 44px;
+  position: absolute;
+  text-decoration: none;
+}
+.pendaftaran-persetujuan-admin-phcheckduotonebutton4 {
+  top: 404px;
+  left: 890px;
+  width: 57px;
+  height: 63px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pendaftaran-persetujuan-admin-group4 {
+  top: 10.343283653259277px;
+  left: 5.699999809265137px;
+  width: 46.3125px;
+  height: 43.3125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pendaftaran-persetujuan-admin-vector08 {
+  top: 0px;
+  left: 0px;
+  width: 46px;
+  height: 43px;
+  opacity: 0.20;
+  position: absolute;
+}
+.pendaftaran-persetujuan-admin-navlink7 {
+  display: contents;
+}
+.pendaftaran-persetujuan-admin-vector09 {
+  top: 7.873905181884766px;
+  left: 7.124009609222412px;
+  width: 34px;
+  height: 28px;
+  position: absolute;
+  text-decoration: none;
+}
+.pendaftaran-persetujuan-admin-rectangle39 {
+  top: 414px;
+  left: 955px;
+  width: 46px;
+  height: 44px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pendaftaran-persetujuan-admin-navlink8 {
+  display: contents;
+}
+.pendaftaran-persetujuan-admin-dashiconsnobutton4 {
+  top: 414px;
+  left: 955px;
+  width: 46px;
+  height: 44px;
+  position: absolute;
+  text-decoration: none;
+}
+.pendaftaran-persetujuan-admin-rectangle25input {
+  top: 414px;
+  left: 275px;
+  width: 594px;
+  height: 44px;
+  position: absolute;
+}
+.pendaftaran-persetujuan-admin-rectangle25input1 {
+  top: 493px;
+  left: 275px;
+  width: 594px;
+  height: 44px;
+  position: absolute;
+}
+.pendaftaran-persetujuan-admin-rectangle25input2 {
+  top: 565px;
+  left: 275px;
+  width: 594px;
+  height: 44px;
+  position: absolute;
+}
+.pendaftaran-persetujuan-admin-rectangle25input3 {
+  top: 644px;
+  left: 275px;
+  width: 594px;
+  height: 44px;
+  position: absolute;
+}
+.pendaftaran-persetujuan-admin-rectangle25input4 {
+  top: 342px;
+  left: 275px;
+  width: 594px;
+  height: 44px;
+  position: absolute;
+}

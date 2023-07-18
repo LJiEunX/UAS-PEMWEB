@@ -1,0 +1,292 @@
+.hasil-mhs-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.hasil-mhs-hasilmhs {
+  width: 1280px;
+  height: 832px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 240, 237, 1);
+}
+.hasil-mhs-rectangle13 {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 141px;
+  position: absolute;
+}
+.hasil-mhs-text {
+  top: 37px;
+  left: 168px;
+  color: rgba(18, 17, 17, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-mhs-logofixesgul1 {
+  top: 15px;
+  left: 21px;
+  width: 111px;
+  height: 110px;
+  position: absolute;
+}
+.hasil-mhs-text05 {
+  top: 55px;
+  left: 708px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-mhs-text07 {
+  top: 55px;
+  left: 808px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-mhs-text09 {
+  top: 54px;
+  left: 936px;
+  color: rgba(0, 0, 0, 1);
+  width: 199px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-mhs-text11 {
+  top: 55px;
+  left: 1148px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-mhs-groupofstudentsdoingonlineeducationlearningtogethe {
+  top: 169px;
+  left: 0px;
+  width: 618px;
+  height: 493px;
+  position: absolute;
+  border-radius: 65px;
+}
+.hasil-mhs-rectangle25 {
+  top: 167px;
+  left: 618px;
+  width: 686px;
+  height: 649px;
+  position: absolute;
+  border-radius: 68px;
+}
+.hasil-mhs-rectangle5 {
+  top: 227px;
+  left: 668px;
+  width: 536px;
+  height: 44px;
+  position: absolute;
+  border-radius: 10px;
+}
+.hasil-mhs-rectangle19 {
+  top: 331px;
+  left: 668px;
+  width: 536px;
+  height: 44px;
+  position: absolute;
+  border-radius: 10px;
+}
+.hasil-mhs-text13 {
+  top: 182px;
+  left: 668px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-mhs-rectangle24 {
+  top: 686px;
+  left: 41px;
+  width: 536px;
+  height: 105px;
+  position: absolute;
+  border-radius: 10px;
+}
+.hasil-mhs-text15 {
+  top: 641px;
+  left: 41px;
+  color: rgba(0, 0, 0, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-mhs-text17 {
+  top: 286px;
+  left: 668px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-mhs-rectangle22 {
+  top: 643px;
+  left: 668px;
+  width: 536px;
+  height: 44px;
+  position: absolute;
+  border-radius: 10px;
+}
+.hasil-mhs-rectangle23 {
+  top: 747px;
+  left: 668px;
+  width: 536px;
+  height: 44px;
+  position: absolute;
+  border-radius: 10px;
+}
+.hasil-mhs-text19 {
+  top: 598px;
+  left: 668px;
+  color: rgba(0, 0, 0, 1);
+  width: 238px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-mhs-text21 {
+  top: 702px;
+  left: 668px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-mhs-rectangle20 {
+  top: 435px;
+  left: 668px;
+  width: 536px;
+  height: 44px;
+  position: absolute;
+  border-radius: 10px;
+}
+.hasil-mhs-rectangle21 {
+  top: 539px;
+  left: 668px;
+  width: 536px;
+  height: 44px;
+  position: absolute;
+  border-radius: 10px;
+}
+.hasil-mhs-text23 {
+  top: 390px;
+  left: 668px;
+  color: rgba(0, 0, 0, 1);
+  width: 126px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-mhs-text25 {
+  top: 494px;
+  left: 668px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

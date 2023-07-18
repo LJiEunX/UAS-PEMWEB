@@ -1,0 +1,260 @@
+.jadwal-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.jadwal-jadwal {
+  width: 1280px;
+  height: 832px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 240, 237, 1);
+}
+.jadwal-rectangle12 {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 141px;
+  position: absolute;
+}
+.jadwal-text {
+  top: 37px;
+  left: 168px;
+  color: rgba(18, 17, 17, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jadwal-text05 {
+  top: 55px;
+  left: 1148px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jadwal-rectangle24 {
+  top: 180px;
+  left: 29px;
+  width: 686px;
+  height: 625px;
+  position: absolute;
+  border-radius: 68px;
+}
+.jadwal-text07 {
+  top: 54px;
+  left: 936px;
+  color: rgba(0, 0, 0, 1);
+  width: 199px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jadwal-text09 {
+  top: 55px;
+  left: 808px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jadwal-text11 {
+  top: 55px;
+  left: 708px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jadwal-logofixesgul1 {
+  top: 15px;
+  left: 21px;
+  width: 111px;
+  height: 110px;
+  position: absolute;
+}
+.jadwal-rectangle25 {
+  top: 267px;
+  left: 104px;
+  width: 536px;
+  height: 44px;
+  position: absolute;
+  border-radius: 10px;
+}
+.jadwal-rectangle26 {
+  top: 383px;
+  left: 104px;
+  width: 536px;
+  height: 44px;
+  position: absolute;
+  border-radius: 10px;
+}
+.jadwal-text13 {
+  top: 216px;
+  left: 104px;
+  color: rgba(0, 0, 0, 1);
+  width: 536px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jadwal-text15 {
+  top: 332px;
+  left: 104px;
+  color: rgba(0, 0, 0, 1);
+  width: 536px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jadwal-rectangle27 {
+  top: 708px;
+  left: 104px;
+  width: 536px;
+  height: 44px;
+  position: absolute;
+  border-radius: 10px;
+}
+.jadwal-text17 {
+  top: 657px;
+  left: 104px;
+  color: rgba(0, 0, 0, 1);
+  width: 536px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jadwal-rectangle29 {
+  top: 493px;
+  left: 104px;
+  width: 536px;
+  height: 44px;
+  position: absolute;
+  border-radius: 10px;
+}
+.jadwal-rectangle31 {
+  top: 246px;
+  left: 808px;
+  width: 448px;
+  height: 523px;
+  position: absolute;
+  border-radius: 10px;
+}
+.jadwal-rectangle30 {
+  top: 597px;
+  left: 104px;
+  width: 536px;
+  height: 44px;
+  position: absolute;
+  border-radius: 10px;
+}
+.jadwal-text19 {
+  top: 443px;
+  left: 104px;
+  color: rgba(0, 0, 0, 1);
+  width: 536px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jadwal-text21 {
+  top: 553px;
+  left: 104px;
+  color: rgba(0, 0, 0, 1);
+  width: 536px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jadwal-text23 {
+  top: 216px;
+  left: 857px;
+  color: rgba(0, 0, 0, 1);
+  width: 386px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

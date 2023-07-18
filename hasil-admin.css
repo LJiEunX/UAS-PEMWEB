@@ -1,0 +1,267 @@
+.hasil-admin-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.hasil-admin-hasiladmin {
+  width: 1280px;
+  height: 832px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 240, 237, 1);
+}
+.hasil-admin-rectangle12 {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 141px;
+  position: absolute;
+}
+.hasil-admin-text {
+  top: 70px;
+  left: 1081px;
+  color: rgba(0, 0, 0, 1);
+  width: 199px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-admin-text02 {
+  top: 37px;
+  left: 168px;
+  color: rgba(18, 17, 17, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-admin-logofixesgul1 {
+  top: 15px;
+  left: 21px;
+  width: 111px;
+  height: 110px;
+  position: absolute;
+}
+.hasil-admin-rectangle25 {
+  top: 160px;
+  left: 52px;
+  width: 686px;
+  height: 649px;
+  position: absolute;
+  border-radius: 68px;
+}
+.hasil-admin-rectangle5input {
+  top: 220px;
+  left: 102px;
+  width: 536px;
+  height: 44px;
+  position: absolute;
+  border-radius: 10px;
+}
+.hasil-admin-rectangle19input {
+  top: 324px;
+  left: 102px;
+  width: 536px;
+  height: 44px;
+  position: absolute;
+  border-radius: 10px;
+}
+.hasil-admin-text07 {
+  top: 175px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-admin-text09 {
+  top: 279px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-admin-rectangle22input {
+  top: 636px;
+  left: 102px;
+  width: 536px;
+  height: 44px;
+  position: absolute;
+  border-radius: 10px;
+}
+.hasil-admin-rectangle23 {
+  top: 740px;
+  left: 102px;
+  width: 536px;
+  height: 44px;
+  position: absolute;
+  border-radius: 10px;
+}
+.hasil-admin-text11 {
+  top: 591px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 238px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-admin-text13 {
+  top: 695px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-admin-rectangle20input {
+  top: 428px;
+  left: 102px;
+  width: 536px;
+  height: 44px;
+  position: absolute;
+  border-radius: 10px;
+}
+.hasil-admin-rectangle21input {
+  top: 532px;
+  left: 102px;
+  width: 536px;
+  height: 44px;
+  position: absolute;
+  border-radius: 10px;
+}
+.hasil-admin-text15 {
+  top: 383px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 126px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-admin-text17 {
+  top: 487px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-admin-rectangle24input {
+  top: 263px;
+  left: 766px;
+  width: 454px;
+  height: 477px;
+  position: absolute;
+  border-radius: 10px;
+}
+.hasil-admin-text19 {
+  top: 218px;
+  left: 766px;
+  color: rgba(0, 0, 0, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-admin-navlink {
+  display: contents;
+}
+.hasil-admin-rectangle24button {
+  top: 764px;
+  left: 1069px;
+  width: 151px;
+  height: 39px;
+  position: absolute;
+  border-radius: 22px;
+  text-decoration: none;
+}
+.hasil-admin-text21 {
+  top: 771px;
+  left: 1109px;
+  color: rgba(0, 0, 0, 1);
+  width: 111px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

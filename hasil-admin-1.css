@@ -1,0 +1,221 @@
+.hasil-admin1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.hasil-admin1-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.hasil-admin1-hasiladm1 {
+  width: 1280px;
+  height: 832px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 240, 237, 1);
+}
+.hasil-admin1-rectangle13 {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 141px;
+  position: absolute;
+}
+.hasil-admin1-text {
+  top: 37px;
+  left: 168px;
+  color: rgba(18, 17, 17, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-admin1-logofixesgul1 {
+  top: 15px;
+  left: 21px;
+  width: 111px;
+  height: 110px;
+  position: absolute;
+}
+.hasil-admin1-text05 {
+  top: 55px;
+  left: 901px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-admin1-text07 {
+  top: 55px;
+  left: 1036px;
+  color: rgba(0, 0, 0, 1);
+  width: 199px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-admin1-rectangle31 {
+  top: 292px;
+  left: 216px;
+  width: 847px;
+  height: 448px;
+  position: absolute;
+}
+.hasil-admin1-phcheckduotone {
+  top: 583px;
+  left: 885px;
+  width: 57px;
+  height: 63px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.hasil-admin1-navlink {
+  display: contents;
+}
+.hasil-admin1-mditextsearchbutton {
+  top: 589px;
+  left: 901px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  text-decoration: none;
+}
+.hasil-admin1-rectangle25 {
+  top: 415px;
+  left: 291px;
+  width: 594px;
+  height: 44px;
+  position: absolute;
+}
+.hasil-admin1-rectangle251 {
+  top: 499px;
+  left: 291px;
+  width: 594px;
+  height: 44px;
+  position: absolute;
+}
+.hasil-admin1-rectangle252 {
+  top: 583px;
+  left: 291px;
+  width: 594px;
+  height: 44px;
+  position: absolute;
+}
+.hasil-admin1-rectangle253 {
+  top: 667px;
+  left: 291px;
+  width: 594px;
+  height: 44px;
+  position: absolute;
+}
+.hasil-admin1-rectangle254 {
+  top: 331px;
+  left: 291px;
+  width: 594px;
+  height: 44px;
+  position: absolute;
+}
+.hasil-admin1-text09 {
+  top: 219px;
+  left: 461px;
+  color: rgba(0, 0, 0, 1);
+  width: 357px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hasil-admin1-navlink1 {
+  display: contents;
+}
+.hasil-admin1-mditextsearchbutton1 {
+  top: 333px;
+  left: 901px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  text-decoration: none;
+}
+.hasil-admin1-navlink2 {
+  display: contents;
+}
+.hasil-admin1-mditextsearchbutton2 {
+  top: 670px;
+  left: 901px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  text-decoration: none;
+}
+.hasil-admin1-navlink3 {
+  display: contents;
+}
+.hasil-admin1-mditextsearchbutton3 {
+  top: 505px;
+  left: 901px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  text-decoration: none;
+}
+.hasil-admin1-mditextsearch {
+  top: 448px;
+  left: 901px;
+  width: 38px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.hasil-admin1-navlink4 {
+  display: contents;
+}
+.hasil-admin1-vectorbutton {
+  top: 422px;
+  left: 908px;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+  text-decoration: none;
+}

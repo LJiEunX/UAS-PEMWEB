@@ -1,0 +1,359 @@
+.pendaftaran-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pendaftaran-pendaftaran {
+  width: 1280px;
+  height: 832px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 240, 237, 1);
+}
+.pendaftaran-rectangle12 {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 141px;
+  position: absolute;
+}
+.pendaftaran-text {
+  top: 37px;
+  left: 168px;
+  color: rgba(18, 17, 17, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-text05 {
+  top: 55px;
+  left: 1148px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-text07 {
+  top: 54px;
+  left: 936px;
+  color: rgba(0, 0, 0, 1);
+  width: 199px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-text09 {
+  top: 55px;
+  left: 808px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-text11 {
+  top: 55px;
+  left: 708px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-logofixesgul1 {
+  top: 15px;
+  left: 21px;
+  width: 111px;
+  height: 110px;
+  position: absolute;
+}
+.pendaftaran-rectangle15 {
+  top: 171px;
+  left: 57px;
+  width: 677px;
+  height: 650px;
+  position: absolute;
+  border-radius: 68px;
+}
+.pendaftaran-rectangle5input {
+  top: 264px;
+  left: 131px;
+  width: 529px;
+  height: 45px;
+  position: absolute;
+  border-radius: 10px;
+}
+.pendaftaran-rectangle19input {
+  top: 365px;
+  left: 131px;
+  width: 529px;
+  height: 46px;
+  position: absolute;
+  border-radius: 10px;
+}
+.pendaftaran-text13 {
+  top: 217px;
+  left: 131px;
+  color: rgba(0, 0, 0, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-text15 {
+  top: 319px;
+  left: 131px;
+  color: rgba(0, 0, 0, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-text17 {
+  top: 183px;
+  left: 262px;
+  color: rgba(0, 0, 0, 1);
+  width: 267px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-rectangle20input {
+  top: 474px;
+  left: 131px;
+  width: 529px;
+  height: 45px;
+  position: absolute;
+  border-radius: 10px;
+}
+.pendaftaran-rectangle21input {
+  top: 582px;
+  left: 131px;
+  width: 529px;
+  height: 46px;
+  position: absolute;
+  border-radius: 10px;
+}
+.pendaftaran-rectangle22button {
+  top: 682px;
+  left: 131px;
+  width: 131px;
+  height: 34px;
+  position: absolute;
+  border-radius: 22px;
+}
+.pendaftaran-text19 {
+  top: 427px;
+  left: 131px;
+  color: rgba(0, 0, 0, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-text21 {
+  top: 535px;
+  left: 131px;
+  color: rgba(0, 0, 0, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-text23 {
+  top: 687px;
+  left: 149px;
+  color: rgba(0, 0, 0, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-rectangle23button {
+  top: 762px;
+  left: 131px;
+  width: 131px;
+  height: 34px;
+  position: absolute;
+  border-radius: 22px;
+}
+.pendaftaran-navlink {
+  display: contents;
+}
+.pendaftaran-rectangle24button {
+  top: 762px;
+  left: 476px;
+  width: 131px;
+  height: 34px;
+  position: absolute;
+  border-radius: 22px;
+  text-decoration: none;
+}
+.pendaftaran-text25 {
+  top: 767px;
+  left: 149px;
+  color: rgba(0, 0, 0, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-text27 {
+  top: 767px;
+  left: 149px;
+  color: rgba(0, 0, 0, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-text29 {
+  top: 767px;
+  left: 515px;
+  color: rgba(0, 0, 0, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-text31 {
+  top: 641px;
+  left: 131px;
+  color: rgba(0, 0, 0, 1);
+  width: 320px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-text33 {
+  top: 724px;
+  left: 131px;
+  color: rgba(0, 0, 0, 1);
+  width: 320px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-jadwal1 {
+  top: 245px;
+  left: 755px;
+  width: 499px;
+  height: 499px;
+  position: absolute;
+}

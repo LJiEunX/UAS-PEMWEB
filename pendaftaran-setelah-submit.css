@@ -1,0 +1,151 @@
+.pendaftaran-setelah-submit-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pendaftaran-setelah-submit-pendaftaran-setelah-submit {
+  width: 1280px;
+  height: 832px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 240, 237, 1);
+}
+.pendaftaran-setelah-submit-rectangle13 {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 141px;
+  position: absolute;
+}
+.pendaftaran-setelah-submit-text {
+  top: 37px;
+  left: 168px;
+  color: rgba(18, 17, 17, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-setelah-submit-logofixesgul1 {
+  top: 15px;
+  left: 21px;
+  width: 111px;
+  height: 110px;
+  position: absolute;
+}
+.pendaftaran-setelah-submit-text05 {
+  top: 55px;
+  left: 708px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-setelah-submit-text07 {
+  top: 55px;
+  left: 808px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-setelah-submit-text09 {
+  top: 54px;
+  left: 936px;
+  color: rgba(0, 0, 0, 1);
+  width: 199px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.Nav:hover{
+  background-color: orange;
+}
+.pendaftaran-setelah-submit-text11 {
+  top: 55px;
+  left: 1148px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-setelah-submit-rectangle24 {
+  top: 229px;
+  left: 68px;
+  width: 1144px;
+  height: 511px;
+  position: absolute;
+  border-radius: 10px;
+}
+.pendaftaran-setelah-submit-text13 {
+  top: 450px;
+  left: 317px;
+  color: rgba(0, 0, 0, 1);
+  width: 782px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pendaftaran-setelah-submit-text20 {
+  top: 274px;
+  left: 415px;
+  color: rgba(0, 0, 0, 1);
+  width: 632px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
